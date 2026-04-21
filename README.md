@@ -343,7 +343,7 @@ Faça um mapa mental em texto (com hierarquia de tópicos e subtópicos) sobre
 
 ## 👤 Autor
 
-Feito com 🧠 + ☕ como parte do Bootcamp da [DIO](https://www.dio.me/).
+Feito por **Geovana Queiroz** como parte do Bootcamp da [DIO](https://www.dio.me/).
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
