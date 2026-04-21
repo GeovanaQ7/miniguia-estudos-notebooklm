@@ -297,27 +297,6 @@ Faça um mapa mental em texto (com hierarquia de tópicos e subtópicos) sobre
 
 ---
 
-## 🛠️ Estrutura do Repositório
-
-```
-📁 miniguia-estudos-notebooklm/
-│
-├── 📄 README.md                    ← Este arquivo (entrega principal)
-│
-├── 📁 fontes/
-│   ├── data-engineering-lifecycle-notes.pdf
-│   ├── data-engineering-cookbook-excerpt.pdf
-│   └── links.md                   ← Links para as fontes online
-│
-├── 📁 prompts/
-│   └── prompts-testados.md        ← Log completo de testes de prompts
-│
-└── 📁 glossario/
-    └── glossario-dados.md         ← Versão expandida do glossário
-```
-
----
-
 ## 🚀 Tecnologias & Ferramentas Mencionadas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
