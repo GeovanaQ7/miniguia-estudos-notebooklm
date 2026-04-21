@@ -349,4 +349,4 @@ Feito por **Geovana Queiroz** como parte do Bootcamp da [DIO](https://www.dio.me
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar, adaptar e compartilhar!
+Este repositório é um registro pessoal de estudos. Sinta-se à vontade para se inspirar!
