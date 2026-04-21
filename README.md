@@ -310,16 +310,6 @@ Faça um mapa mental em texto (com hierarquia de tópicos e subtópicos) sobre
 
 ---
 
-## 📈 Próximos Passos
-
-- [ ] Implementar um pipeline simples com Airflow + dbt localmente (Docker)
-- [ ] Completar o módulo de Apache Spark na trilha da DIO
-- [ ] Estudar Apache Iceberg e o conceito de Open Table Formats
-- [ ] Aprofundar em Data Quality com Great Expectations
-- [ ] Criar um projeto end-to-end e adicionar ao portfólio
-
----
-
 ## 👤 Autor
 
 Feito por **Geovana Queiroz** como parte do Bootcamp da [DIO](https://www.dio.me/).
